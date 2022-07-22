@@ -1,0 +1,52 @@
+h1
+{
+    text-align: center;
+    color: rgb(128, 6, 6);
+    font-style: italic;
+}
+
+
+#users {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #users td, #users th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  #users tr:nth-child(even){background-color: #16a3ad;}
+  
+ 
+  
+  #users th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: rgb(64, 4, 71);
+    color: white;
+  }
+
+
+  #button1{
+   text-align: center;
+   border: 10%;
+   border-color:rgb(61, 7, 105);
+   border-radius: 14%;
+   margin-left: 45%;
+
+
+  }
+  
+  #button2{
+    text-align: center;
+    border: 10%;
+    border-color:rgb(61, 7, 105);
+    border-radius: 14%
+ 
+ 
+   }
+ 
